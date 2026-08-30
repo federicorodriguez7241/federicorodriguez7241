@@ -17,5 +17,5 @@ Programacion Orientada A Objetos
         - [Ejercicio 9: Asociación entre Clases (Producto y CarritoDeCompras)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO09-ProductoYCarritoCompras)
         - [Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO10-Personajes)
     - Ejercitacion 2.2
-          - [Ejercicio 1: Modelado básico e instanciación (ArticuloGeek)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO01-2.2-ArticuloGeek)
+        - [Ejercicio 1: Modelado básico e instanciación (ArticuloGeek)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO01-2.2-ArticuloGeek)
       
