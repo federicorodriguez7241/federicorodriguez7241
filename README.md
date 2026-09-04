@@ -18,4 +18,7 @@ Programacion Orientada A Objetos
         - [Ejercicio 10: Modelado de Dominio e Interacción Directa (Personaje)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO10-Personajes)
     - Ejercitacion 2.2
         - [Ejercicio 1: Modelado básico e instanciación (ArticuloGeek)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO01-2.2-ArticuloGeek)
+        - [Ejercicio 2: Parametrización con Constructores (Videojuego)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO02-2.2-Videojuego)
+        - [Ejercicio 3: Transición de Estados (ConsolaRetro)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO03-2.2-ConsolaRetro)
+        - [Ejercicio 4: Métodos con Retorno y Operaciones de Estado (CajaRegistradora)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO04-2.2-CajaRegistradora)
       
