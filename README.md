@@ -29,4 +29,11 @@ Programacion Orientada A Objetos
         - [Ejercicio 10: Agregación Simple de Objetos (ColeccionLote y ArticuloGeek)](https://github.com/federicorodriguez7241/POO-M1-EJERCICIO10-2.2-ColeccionLoteYArticuloGeek)
           
 - Modulo 3
+
+
+***
+Diseño de Software
+- Modulo 2
+  - Ejercitacion 2.1
+      - [Ejercicio 1: Configuración Inicial de la Aplicación](https://github.com/federicorodriguez7241/DS-M1-EJERCICIO01-2.1-Configuracion)
       
