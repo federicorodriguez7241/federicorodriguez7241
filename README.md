@@ -36,4 +36,5 @@ Diseño de Software
 - Modulo 2
   - Ejercitacion 2.1
       - [Ejercicio 1: Configuración Inicial de la Aplicación](https://github.com/federicorodriguez7241/DS-M1-EJERCICIO01-2.1-Configuracion)
+      - [Gestor de Conexiones a Base de Datos Simple](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO02-2.1-DataBase)
       
