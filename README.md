@@ -37,4 +37,5 @@ Diseño de Software
   - Ejercitacion 2.1
       - [Ejercicio 1: Configuración Inicial de la Aplicación](https://github.com/federicorodriguez7241/DS-M1-EJERCICIO01-2.1-Configuracion)
       - [Ejercicio 2: Gestor de Conexiones a Base de Datos Simple](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO02-2.1-DataBase)
+      - [Ejercicio 3: Registro de Eventos (Logger) Básico](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO03-2.1-Loguers)
       
