@@ -40,5 +40,6 @@ Diseño de Software
       - [Ejercicio 3: Registro de Eventos (Logger) Básico](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO03-2.1-Loguers)
       - [Ejercicio 4: Servicio de Caché en Memoria](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO04-2.1-Cache)
       - [Ejercicio 5: Administrador de Dispositivos de Hardware Únicos](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO05-2.1-AdministradorDispositivos)
+      - [Ejercicio 6: Gestor de Temas y Apariencia Visual](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO06-2.1-GestorTemas)
       - 
       
