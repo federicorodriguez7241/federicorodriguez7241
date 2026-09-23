@@ -41,5 +41,5 @@ Diseño de Software
       - [Ejercicio 4: Servicio de Caché en Memoria](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO04-2.1-Cache)
       - [Ejercicio 5: Administrador de Dispositivos de Hardware Únicos](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO05-2.1-AdministradorDispositivos)
       - [Ejercicio 6: Gestor de Temas y Apariencia Visual](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO06-2.1-GestorTemas)
-      - 
+      - [Ejercicio 7: Cola de Impresión Centralizada](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO07-2.1-ColaImpresion)
       
