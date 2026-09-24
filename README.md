@@ -43,5 +43,6 @@ Diseño de Software
       - [Ejercicio 6: Gestor de Temas y Apariencia Visual](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO06-2.1-GestorTemas)
       - [Ejercicio 7: Cola de Impresión Centralizada](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO07-2.1-ColaImpresion)
       - [Ejercicio 8: Refactorización hacia Inyección de Dependencias](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO08-2.1-Refactorizacion)
+      - [Ejercicio 9: Sistema de Monitoreo de Métricas de Rendimiento](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO09-2.1-Monitoreo)
       - 
       
