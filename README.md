@@ -44,5 +44,5 @@ Diseño de Software
       - [Ejercicio 7: Cola de Impresión Centralizada](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO07-2.1-ColaImpresion)
       - [Ejercicio 8: Refactorización hacia Inyección de Dependencias](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO08-2.1-Refactorizacion)
       - [Ejercicio 9: Sistema de Monitoreo de Métricas de Rendimiento](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO09-2.1-Monitoreo)
-      - 
+      - [Ejercicio 10: Contenedor de Estado Global y Auditoría de Seguridad](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO10-21-Auditoria)
       
