@@ -45,5 +45,5 @@ Diseño de Software
       - [Ejercicio 8: Refactorización hacia Inyección de Dependencias](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO08-2.1-Refactorizacion)
       - [Ejercicio 9: Sistema de Monitoreo de Métricas de Rendimiento](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO09-2.1-Monitoreo)
       - [Ejercicio 10: Contenedor de Estado Global y Auditoría de Seguridad](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO10-21-Auditoria)
-- Ejercitacion 2.2
-      - []() 
+  - Ejercitacion 2.2
+    - [Ejercicio 1: Configuración General de una Biblioteca](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO02-2.2-ConfiguracionBiblioteca) 
