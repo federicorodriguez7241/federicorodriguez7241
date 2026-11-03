@@ -33,7 +33,7 @@ Programacion Orientada A Objetos
 
 ***
 Diseño de Software
-- Modulo 2
+- Modulo 2 - Singleton
   - Ejercitacion 2.1
       - [Ejercicio 1: Configuración Inicial de la Aplicación](https://github.com/federicorodriguez7241/DS-M1-EJERCICIO01-2.1-Configuracion)
       - [Ejercicio 2: Gestor de Conexiones a Base de Datos Simple](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO02-2.1-DataBase)
@@ -45,4 +45,5 @@ Diseño de Software
       - [Ejercicio 8: Refactorización hacia Inyección de Dependencias](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO08-2.1-Refactorizacion)
       - [Ejercicio 9: Sistema de Monitoreo de Métricas de Rendimiento](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO09-2.1-Monitoreo)
       - [Ejercicio 10: Contenedor de Estado Global y Auditoría de Seguridad](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO10-21-Auditoria)
-      
+- Ejercitacion 2.2
+      - []() 
