@@ -51,3 +51,4 @@ Diseño de Software
     - [Ejercicio 3: Catálogo Compartido de Libros](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO03-2.2-CatalogoLibros)
     - [Ejercicio 4: Administrador Único de Préstamos](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO04-2.2-AdministradorPrestamos)
     - [Ejercicio 5: Gestor Concurrente de Reservas de una Sala de Lectura](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO05-2.2-GestorConcurrente)
+    - [Ejercicio 6: Configuración General de un Hospital](https://github.com/federicorodriguez7241/DS-MS-EJERCICIO06-2.2-ConfigGeneralHospital)
