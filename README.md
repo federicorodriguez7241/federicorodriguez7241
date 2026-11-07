@@ -50,3 +50,4 @@ Diseño de Software
     - [Registro Centralizado de Actividades de la Biblioteca](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO02-2.2-RegistroBibliotecas)
     - [Ejercicio 3: Catálogo Compartido de Libros](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO03-2.2-CatalogoLibros)
     - [Ejercicio 4: Administrador Único de Préstamos](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO04-2.2-AdministradorPrestamos)
+    - [Ejercicio 5: Gestor Concurrente de Reservas de una Sala de Lectura](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO05-2.2-GestorConcurrente)
