@@ -52,3 +52,4 @@ Diseño de Software
     - [Ejercicio 4: Administrador Único de Préstamos](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO04-2.2-AdministradorPrestamos)
     - [Ejercicio 5: Gestor Concurrente de Reservas de una Sala de Lectura](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO05-2.2-GestorConcurrente)
     - [Ejercicio 6: Configuración General de un Hospital](https://github.com/federicorodriguez7241/DS-MS-EJERCICIO06-2.2-ConfigGeneralHospital)
+    - [Ejercicio 7: Generador Central de Números de Atención](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO07-2.2-GeneradorNumeroAtencion)
