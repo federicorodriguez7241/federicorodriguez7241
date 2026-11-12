@@ -53,3 +53,4 @@ Diseño de Software
     - [Ejercicio 5: Gestor Concurrente de Reservas de una Sala de Lectura](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO05-2.2-GestorConcurrente)
     - [Ejercicio 6: Configuración General de un Hospital](https://github.com/federicorodriguez7241/DS-MS-EJERCICIO06-2.2-ConfigGeneralHospital)
     - [Ejercicio 7: Generador Central de Números de Atención](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO07-2.2-GeneradorNumeroAtencion)
+    - [Ejercicio 8: Registro Compartido de Movimientos de Insumos](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO08-2.2-RegistroMovimiento#l%C3%B3gica-y-funcionamiento-del-programa)
