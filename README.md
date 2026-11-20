@@ -57,3 +57,6 @@ Diseño de Software
     - [Ejercicio 9: Cola Compartida de Impresión Administrativa](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO09-2.2-ColaImpresionAdministrativa)
     - [Ejercicio 10: Administrador Concurrente de Turnos de Consultorio](https://github.com/federicorodriguez7241/DS-M2-EJERCICIO10-2.2-AdministradorTurnoConsultorio)
 - Modulo 3 - Factory
+   - Ejercitación 3.1
+     - [Ejercicio 1: Generador Básico de Documentos de Texto](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO1-3.1-GeneradorTextoBasico)
+     - [Ejercicio 2: Creador de Conexiones a Motores de Base de Datos](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO2-3.1-CreadorConexionMotorasDB)
