@@ -64,4 +64,7 @@ Diseño de Software
      - [Ejercicio 4: Fábrica de Exportadores de Reportes Financieros](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO04-3.1-ReportesFinancieros)
      - [Ejercicio 5: Generador de Personajes para Videojuego de Rol](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO05-3.1-PersonajeVideojuego)
      - [Ejercicio 6: Factoría de Métodos de Pago para Comercio Electrónico](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO06-3.1-MetodosPago)
-     - 
+     - [Ejercicio 7: Generador de Elementos de Interfaz Gráfica Adaptativa](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO07-3.1-GeneradorElementos)
+     - [Ejercicio 8: Refactorización de Código Acoplado hacia Factory Method](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO08-3.1-RefactorizacionCodigo)
+     - []()
+     - []()
