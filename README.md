@@ -60,3 +60,8 @@ Diseño de Software
    - Ejercitación 3.1
      - [Ejercicio 1: Generador Básico de Documentos de Texto](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO1-3.1-GeneradorTextoBasico)
      - [Ejercicio 2: Creador de Conexiones a Motores de Base de Datos](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO2-3.1-CreadorConexionMotorasDB)
+     - [Ejercicio 3: Sistema de Notificaciones Multiplataforma Básico](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO03-3.1-SistemaNotificacionesBasicas)
+     - [Ejercicio 4: Fábrica de Exportadores de Reportes Financieros](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO04-3.1-ReportesFinancieros)
+     - [Ejercicio 5: Generador de Personajes para Videojuego de Rol](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO05-3.1-PersonajeVideojuego)
+     - [Ejercicio 6: Factoría de Métodos de Pago para Comercio Electrónico](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO06-3.1-MetodosPago)
+     - 
