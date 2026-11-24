@@ -79,4 +79,16 @@ Diseño de Software
     - [Ejercicio 7: Generador de Componentes de Interfaz Gráfica Minimalista](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO07-3.2-ComponentesInterfazGrafica)
     - [Ejercicio 8: Refactorización de Código Condicional hacia Factory Method](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO08-3.2-RefactorizaciondeCodigo)
     - [Ejercicio 9: Fábrica Avanzada de Sensores Ambientales para IoT](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO09-3.2-FabricaSensores)
-    - [Ejercicio 10: Sistema Empresarial de Emisión de Títulos de Propiedad]()
+    - [Ejercicio 10: Sistema Empresarial de Emisión de Títulos de Propiedad](https://github.com/federicorodriguez7241/DS-M3-EJERCICIO10-3.2-SistemaTitulosPropiedad)
+***
+- Modulo 4 - Observer
+   - Ejercitación 4.1
+      - [Ejercicio 1: Notificador de Cambio de Temperatura](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO01-4.1-NotificadorTemperatura)
+      - [Ejercicio 2: Sincronizador de Interfaz para Reproductor Multimedia](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO02-4.1-SincronizadorReproductorMultimedia)
+      - [Ejercicio 3: Registro Automático de Auditoría por Consola](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO03-4.1-RegistroAuditoriaporConsola)
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
+      - []()
