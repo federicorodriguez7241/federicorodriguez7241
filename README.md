@@ -87,7 +87,7 @@ Diseño de Software
       - [Ejercicio 2: Sincronizador de Interfaz para Reproductor Multimedia](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO02-4.1-SincronizadorReproductorMultimedia)
       - [Ejercicio 3: Registro Automático de Auditoría por Consola](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO03-4.1-RegistroAuditoriaporConsola)
       - [Ejercicio 4: Sistema de Alertas de Stock Bajo para Comercio Electrónico](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO04-4.1-AlertasStockBajo)
-      - [Ejercicio 5: Monitor de Sensores de Humos en Edificio Inteligente]()
+      - [Ejercicio 5: Monitor de Sensores de Humos en Edificio Inteligente](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO05-4.1-MonitorSensoresHumo)
       - []()
       - []()
       - []()
