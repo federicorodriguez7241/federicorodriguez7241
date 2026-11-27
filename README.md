@@ -69,15 +69,21 @@ Diseño de Software
       - [Ejercicio 10: Sistema Empresarial de Notificación de Riesgos y Cumplimiento Legal](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO10-4.1-RiesgosCumplimientoLegal)
    - Ejercitación 4.2
       - [Ejercicio 1: Notificador de Clic en Botón de Interfaz](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO01-4.2-ClickBoton)
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
-      - []()
+      - [Ejercicio 2: Indicador de Estado de Conexión de Red](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO02-4.2-IndicadorConexionRed)
+      - [Ejercicio 3: Marcador de Puntuación para Videojuego Sencillo](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO03-4.2-MarcadorPuntuacion)
+      - [Ejercicio 4: Sistema de Alertas de Precio en Lista de Deseos](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO04-4.2-AlertaPrecio)
+      - [Ejercicio 5: Automatización de Persianas según Sensor de Luz Solar](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO05-4.2-PersianaLuzSolar)
+      - [Ejercicio 6: Panel Financiero de Variación de Divisas](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO06-4.2-PanelFinanciero)
+      - [Ejercicio 7: Sistema de Suscripción a Canales de Video Streaming](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO07-4.2-CanalesStraming)
+      - [Ejercicio 8: Refactorización de Código Acoplado hacia Bus de Eventos](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO08-4.2-Refactorizacion)
+      - [Ejercicio 9: Motor Asíncrono de Eventos para Monitoreo de Servidores](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO09-4.2-MonitoreoServidores)
+      - [Ejercicio 10: Sistema Empresarial de Cumplimiento Normativo y Auditoría de Riesgos](https://github.com/federicorodriguez7241/DS-M4-EJERCICIO10-4.2-SistemaCumplimiuentoNormativo)
+***
+***
+# PROYECTO EGI - DISEÑO DE SOFTWARE
+ - Integrantes: Rodriguez Federico, Candito Yampa, Gilio Giuliano, Lucas Marasco
+   [Enlace Repositorio EGI](https://github.com/PatronSingleton-DisenoSoftware/Patron-Singleton-Software-EGI)
+***
 ***
 
 Programacion Orientada A Objetos
